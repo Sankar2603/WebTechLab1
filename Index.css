@@ -1,0 +1,66 @@
+
+body{
+    background-color: grey;
+}
+
+.main {
+    background-color: white;
+    margin: 2px 400px;
+    border-bottom: 3px solid black;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    padding: 5px 10px;
+}
+.heading1 {
+    text-align: center;
+    font-size: 30px;
+    font-style: bold;
+    text-decoration: underline;
+}
+
+.subheading {
+    text-align: right;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.Intro h{
+    font-size: 20px;
+    font-style: bold;
+}
+
+.education h{
+    font-style: bold;
+    font-size: 20px;
+} 
+.combine {
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.technical h{
+    font-style: bold;
+    font-size: 20px;
+}
+.projects h{
+    font-size: 20px;
+    font-style: bold;
+}
+
+.workc {
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.name h{
+    font-style: bold;
+    font-size: 20px;
+}
+
+.certifications h{
+    font-style: bold;
+    font-size: 20px;
+}
